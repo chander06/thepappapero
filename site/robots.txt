@@ -1,0 +1,6 @@
+# THE PAPPAPPERO — robots.txt
+# Prima della pubblicazione sostituire il dominio provvisorio (vedi README.md)
+User-agent: *
+Allow: /
+
+Sitemap: https://www.dominio-da-definire.it/sitemap.xml
